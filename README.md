@@ -1,5 +1,4 @@
-# Smart-network-packet-analyzer
-# Smart Network Packet Analyzer  
+# Smart-network-packet-analyzer 
 A Python-based desktop application for real-time network traffic analysis and anomaly detection using a **hybrid AI model** (Isolation Forest + Traditional Rules).
 
 ## 🚀 Features  
