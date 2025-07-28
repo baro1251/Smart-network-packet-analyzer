@@ -15,7 +15,7 @@ A Python-based desktop application for real-time network traffic analysis and an
 
 ## ✅ Installation  
 - analyzer.py
-- requirements.txt
+
 
 
 
