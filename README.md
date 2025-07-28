@@ -25,4 +25,4 @@ A Python-based desktop application for real-time network traffic analysis and an
 -  Add security setting to protect against attacks
 
 ## 👤 Author  
-Developed baraa Eltayeb adam 
+Developed by baraa Eltayeb adam 
